@@ -34,10 +34,11 @@ To create a content-only contact page in Umbraco, follow these steps:
     {% hint style="info" %}
     If you do not see the template, try refreshing the page.
     {% endhint %}
-11. Open the _Simple Content Page_ template.
-12. Select `Master Template: No Master` and choose the **Master** template.
-13. Click **Choose**.
-14. Add the following HTML after the closing `}`.
+
+12. Open the _Simple Content Page_ template.
+13. Select `Master Template: No Master` and choose the **Master** template.
+14. Click **Choose**.
+15. Add the following HTML after the closing `}`.
 
     ```html
     <!-- Jumbotron, w title -->
@@ -58,7 +59,7 @@ To create a content-only contact page in Umbraco, follow these steps:
         </div>
     </section>        
     ```
-15. Click **Save**.
+16. Click **Save**.
 
 ### Updating the Document Type Permissions
 
